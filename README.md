@@ -8,4 +8,4 @@ My explanation of multiple trends derived from this stacked bar chart can be fou
 
 ## Reference
 
-TikTok Api used: https://apify.com/clockworks/tiktok-scraper
+TikTok API: https://apify.com/clockworks/tiktok-scraper
