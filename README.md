@@ -6,6 +6,6 @@ In this Data Blog project from Spring 2023, I focused on the relationship betwee
 
 My explanation of multiple trends derived from this stacked bar chart can be found in a section of an article published on Medium (https://ucladatares.medium.com/what-makes-an-appealing-influencer-8951802cae68).
 
-## Reference
+## Reference:
 
 TikTok API: https://apify.com/clockworks/tiktok-scraper
